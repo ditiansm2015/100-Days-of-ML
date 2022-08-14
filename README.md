@@ -11,3 +11,7 @@ Day 17 - Fetching data from API
 Day 18 - Fetching data using web scraping
 
 Day 19 - Understanding your Data
+
+Day 20 - EDA using Univariate Analysis
+
+Day 21 - EDA using Bivariate and Multivariate Analysis

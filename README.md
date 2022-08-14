@@ -8,4 +8,6 @@ Day 16 - Working with JSON/SQL file
 
 Day 17 - Fetching data from API
 
-Day 18 - Fetching data using web scraping.ipynb
+Day 18 - Fetching data using web scraping
+
+Day 19 - Understanding your Data

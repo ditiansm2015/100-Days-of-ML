@@ -15,3 +15,5 @@ Day 19 - Understanding your Data
 Day 20 - EDA using Univariate Analysis
 
 Day 21 - EDA using Bivariate and Multivariate Analysis
+
+Day 22 - Pandas Profiling for EDA

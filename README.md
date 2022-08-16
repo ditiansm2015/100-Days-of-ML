@@ -26,3 +26,4 @@ Day 24 - Feature Scaling - Standardization (in notebook as well as python file)
 
 Day 25 - Feature Scaling - Normalization (in notebook as well as python file)
 
+Day 26 - Label/Ordinal encoding categorical data (in notebook as well as python file)

@@ -21,3 +21,5 @@ Day 22 - Pandas Profiling for EDA
 Day 23 - What is feature Engineering (in notebook. No python file)
 
 Day 24 - Feature Scaling - Standardization
+
+Day 25 - Feature Scaling - Normalization

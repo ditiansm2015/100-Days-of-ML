@@ -29,3 +29,5 @@ Day 25 - Feature Scaling - Normalization (in notebook as well as python file)
 Day 26 - Label/Ordinal encoding categorical data (in notebook as well as python file)
 
 Day 27 - One hot encoding - categorical data
+
+Day 28 - Column Transformer - encoding made easy

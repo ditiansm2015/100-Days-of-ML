@@ -31,3 +31,5 @@ Day 26 - Label/Ordinal encoding categorical data (in notebook as well as python 
 Day 27 - One hot encoding - categorical data
 
 Day 28 - Column Transformer - encoding made easy
+
+Day 29 - ML pipeline

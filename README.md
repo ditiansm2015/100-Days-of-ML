@@ -33,3 +33,5 @@ Day 27 - One hot encoding - categorical data
 Day 28 - Column Transformer - encoding made easy
 
 Day 29 - ML pipeline
+
+Day 30 - Function Transformer

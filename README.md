@@ -35,3 +35,5 @@ Day 28 - Column Transformer - encoding made easy
 Day 29 - ML pipeline
 
 Day 30 - Function Transformer
+
+Day 31 - Power Transformer - Box-Cox and Yeo Johnson

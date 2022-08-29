@@ -37,3 +37,5 @@ Day 29 - ML pipeline
 Day 30 - Function Transformer
 
 Day 31 - Power Transformer - Box-Cox and Yeo Johnson
+
+Day 32 - Binning and Binarization

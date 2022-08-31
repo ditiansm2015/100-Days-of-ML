@@ -39,3 +39,7 @@ Day 30 - Function Transformer
 Day 31 - Power Transformer - Box-Cox and Yeo Johnson
 
 Day 32 - Binning and Binarization
+
+Day 33 - Handling Mixed Data
+
+Day 34 - Handling Date and Time Variable

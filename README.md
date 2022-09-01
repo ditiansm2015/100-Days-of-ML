@@ -45,3 +45,5 @@ Day 33 - Handling Mixed Data
 Day 34 - Handling Date and Time Variable
 
 Day 35 - Handling missing data - dropping data
+
+Day 36 - Handling missing data - Numerical Data

@@ -49,3 +49,5 @@ Day 35 - Handling missing data - dropping data
 Day 36 - Handling missing data - Numerical Data - Mean/Median imputation and Arbitrary value imputation
 
 Day 37 - Handling missing Categorical data - Missing category Imputation and Most Frequent Imputation (Mode imputation)
+
+Day 38 - Works on Both Categorical and Numerical data - Random Sample Imputation, Missing Indicator imputation, Automatic Selection

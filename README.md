@@ -58,3 +58,5 @@ Day 39 - Missing value imputation - Multivariate imputation - KNN Imputer
 Day 40 - Missing value imputation - Iterative Imputer (also called MICE - Multivariate Imputation by Chained Equation)
 
 Day 42 - Outlier detection and handling - through Z score 
+
+Day 43 - Outlier detection and handling - IQR and Boxplot

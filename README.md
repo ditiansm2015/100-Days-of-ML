@@ -1,10 +1,13 @@
 # 100-Days-of-ML
 
+-----------------------------------------------Basics of ML--------------------------------------------------------
 Day 13 - Placement prediction (Using Test-train split, plotting graph etc) 
 
 Day 14 - Framing a ML problem (in notebook. No Python file)
 
----------------------------------Working with files----------------------------------------------
+
+----------------------------------------------Working with files---------------------------------------------------
+
 
 Day 15 - Working with CSV file
 
@@ -14,6 +17,9 @@ Day 17 - Fetching data from API
 
 Day 18 - Fetching data using web scraping
 
+
+----------------------------------------------Exploratory Data Analysis---------------------------------------------
+
 Day 19 - Understanding your Data
 
 Day 20 - EDA using Univariate Analysis (in notebook as well as python file)
@@ -21,6 +27,9 @@ Day 20 - EDA using Univariate Analysis (in notebook as well as python file)
 Day 21 - EDA using Bivariate and Multivariate Analysis
 
 Day 22 - Pandas Profiling for EDA 
+
+
+----------------------------------------------Feature Engineering---------------------------------------------------
 
 Day 23 - What is feature Engineering (in notebook. No python file)
 
@@ -46,6 +55,9 @@ Day 33 - Handling Mixed Data
 
 Day 34 - Handling Date and Time Variable
 
+
+----------------------------------------------Handling Missing Data--------------------------------------------------
+
 Day 35 - Handling missing data - dropping data
 
 Day 36 - Handling missing data - Numerical Data - Mean/Median imputation and Arbitrary value imputation
@@ -58,6 +70,9 @@ Day 38 - Missing value imputation - Works on Both Categorical and Numerical data
 Day 39 - Missing value imputation - Multivariate imputation - KNN Imputer
 
 Day 40 - Missing value imputation - Iterative Imputer (also called MICE - Multivariate Imputation by Chained Equation)
+
+
+----------------------------------------------Handling Outliers------------------------------------------------------
 
 Day 42 - Outlier detection and handling - through Z score 
 

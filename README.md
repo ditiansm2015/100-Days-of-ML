@@ -1,9 +1,11 @@
 # 100-Days-of-ML
 
 -----------------------------------------------Basics of ML--------------------------------------------------------
+
 Day 13 - Placement prediction (Using Test-train split, plotting graph etc) 
 
 Day 14 - Framing a ML problem (in notebook. No Python file)
+
 
 
 ----------------------------------------------Working with files---------------------------------------------------

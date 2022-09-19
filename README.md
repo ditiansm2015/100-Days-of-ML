@@ -85,4 +85,4 @@ Day 44 - Outlier detection and handling - Percentile method (Winsorization techn
 
 ----------------------------------------------**Feature Selection**------------------------------------------------------
 
-Day 45 - Feature Construction and Feature Splitting.ipynb
+Day 45 - Feature Construction and Feature Splitting

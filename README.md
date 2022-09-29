@@ -90,4 +90,5 @@ Day 45 - Feature Construction and Feature Splitting
 
 ----------------------------------------------**PCA**------------------------------------------------------
 
-Day 47 - PCA Basic Implementation
+Day 48 - PCA Basic Implementation
+Day 49 - PCA on MNIST dataset

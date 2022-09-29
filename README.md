@@ -1,6 +1,6 @@
 # 100-Days-of-ML
 
------------------------------------------------**Basics of ML-**-------------------------------------------------------
+-----------------------------------------------**Basics of ML-**-----------------------------------------------------
 
 Day 13 - Placement prediction (Using Test-train split, plotting graph etc) 
 
@@ -8,7 +8,7 @@ Day 14 - Framing a ML problem (in notebook. No Python file)
 
 
 
-----------------------------------------------**Working with files**---------------------------------------------------
+----------------------------------------------**Working with files**-------------------------------------------------
 
 
 Day 15 - Working with CSV file
@@ -20,7 +20,7 @@ Day 17 - Fetching data from API
 Day 18 - Fetching data using web scraping
 
 
-----------------------------------------------**Exploratory Data Analysis**---------------------------------------------
+----------------------------------------------**Exploratory Data Analysis**-------------------------------------------
 
 Day 19 - Understanding your Data
 
@@ -31,7 +31,7 @@ Day 21 - EDA using Bivariate and Multivariate Analysis
 Day 22 - Pandas Profiling for EDA 
 
 
-----------------------------------------------**Feature Engineering**---------------------------------------------------
+----------------------------------------------**Feature Engineering**-------------------------------------------------
 
 Day 23 - What is feature Engineering (in notebook. No python file)
 
@@ -58,7 +58,7 @@ Day 33 - Handling Mixed Data
 Day 34 - Handling Date and Time Variable
 
 
-----------------------------------------------**Handling Missing Data**--------------------------------------------------
+----------------------------------------------**Handling Missing Data**-----------------------------------------------
 
 Day 35 - Handling missing data - dropping data
 
@@ -74,7 +74,7 @@ Day 39 - Missing value imputation - Multivariate imputation - KNN Imputer
 Day 40 - Missing value imputation - Iterative Imputer (also called MICE - Multivariate Imputation by Chained Equation)
 
 
-----------------------------------------------**Handling Outliers**------------------------------------------------------
+----------------------------------------------**Handling Outliers**----------------------------------------------------
 
 Day 42 - Outlier detection and handling - through Z score 
 
@@ -83,6 +83,11 @@ Day 43 - Outlier detection and handling - IQR and Boxplot
 Day 44 - Outlier detection and handling - Percentile method (Winsorization technique)
 
 
-----------------------------------------------**Feature Selection**------------------------------------------------------
+----------------------------------------------**Feature Selection**----------------------------------------------------
 
 Day 45 - Feature Construction and Feature Splitting
+
+
+----------------------------------------------**PCA**------------------------------------------------------
+
+Day 478 - PCA Basic Implementation

@@ -93,3 +93,8 @@ Day 45 - Feature Construction and Feature Splitting
 Day 48 - PCA Basic Implementation
 
 Day 49 - PCA on MNIST dataset
+
+
+-----------------------------------------------**ML Algorithms**---------------------------------------------------
+
+Day 50 - Simple Linear Regression - Code + Intuition

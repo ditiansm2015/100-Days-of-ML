@@ -98,3 +98,5 @@ Day 49 - PCA on MNIST dataset
 -----------------------------------------------**ML Algorithms**---------------------------------------------------
 
 Day 50 - Simple Linear Regression - Code + Intuition
+
+Day 51 - Simple Linear Regression - Mathematical Formulation

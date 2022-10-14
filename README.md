@@ -100,3 +100,5 @@ Day 49 - PCA on MNIST dataset
 Day 50 - Simple Linear Regression - Code + Intuition
 
 Day 51 - Simple Linear Regression - Mathematical Formulation
+
+Day 52 - Regression Metrics | MSE, MAE & RMSE | R2 Score & Adjusted R2 Score

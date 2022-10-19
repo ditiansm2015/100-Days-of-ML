@@ -102,3 +102,9 @@ Day 50 - Simple Linear Regression - Code + Intuition
 Day 51 - Simple Linear Regression - Mathematical Formulation
 
 Day 52 - Regression Metrics | MSE, MAE & RMSE | R2 Score & Adjusted R2 Score
+
+Day 53 - 
+
+Day 54 - Multiple Linear Regression Mathematical Formulation (No code. Refer Notebook) 
+
+Day 55 - Multiple Linear Regression code from Scratch
